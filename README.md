@@ -35,4 +35,5 @@ Las visualizaciones se construyen utilizando la librería **plotly-express**, lo
 
 ## Despliegue
 
-La aplicación se encuentra desplegada en la plataforma **Render** y puede ejecutarse desde un navegador web.
+La aplicación se encuentra desplegada en la plataforma **Render** y puede ejecutarse desde un navegador web siguiendo el enlace https://proyecto-sprint-7-mdar.onrender.com
+
